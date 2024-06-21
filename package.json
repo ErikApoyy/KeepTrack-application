@@ -1,0 +1,14 @@
+{
+  "name": "KeepTrack!",
+  "description": "Web application that helps you note your shopping list",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
